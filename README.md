@@ -1,5 +1,7 @@
 # oss2025
-Welcome
+
+# 오늘은 월요일입니다.
+Welcome to my class
 good lecture
 
 data *science* lab
